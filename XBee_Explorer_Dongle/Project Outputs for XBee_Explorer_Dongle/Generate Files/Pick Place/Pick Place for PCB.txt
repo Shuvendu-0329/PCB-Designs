@@ -1,0 +1,41 @@
+Altium Designer Pick and Place Locations
+D:\Altium_Projects\XBee_Explorer_Dongle\Project Outputs for XBee_Explorer_Dongle\Generate Files\Pick Place\Pick Place for PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       17/09/25
+Time:       11:53
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment           Layer       Footprint                     Center-X(mil) Center-Y(mil) Rotation Description                                                                                                 
+SJ4        RSSI              BottomLayer Solder_Jumper-Footprint-1     1184.000      1083.000      180      "2 pad Solder Jumper"                                                                                       
+SJ3        "Solder Jumper"   BottomLayer Solder_Jumper-Footprint-1     1455.000      1085.000      0        "2 pad Solder Jumper"                                                                                       
+CTS        "Solder Jumper"   BottomLayer Solder_Jumper-Footprint-1     973.000       29.000        180      "2 pad Solder Jumper"                                                                                       
+SJ1        "Solder Jumper"   BottomLayer Solder_Jumper-Footprint-1     1393.000      37.000        180      "2 pad Solder Jumper"                                                                                       
+J3-1       SSM-107-L-SV-BE   TopLayer    FP-SSM-107-L-SV-BE-MFG        1384.000      5.000         180      "CONN RCPT 7POS 0.1 GOLD SMD"                                                                               
+J2-1       SSM-107-L-SV-BE   TopLayer    FP-SSM-107-L-SV-BE-MFG        1053.000      1092.000      0        "CONN RCPT 7POS 0.1 GOLD SMD"                                                                               
+J3-2       SSM-103-L-SV      TopLayer    SMTC-SSM-103-X-SV             861.000       4.000         0        "Tiger Claw(TM) Surface Mount Socket, Vertical, -55 to 125 degC, 2.54 mm Pitch, 3-Pin, Female, RoHS"        
+J2-2       SSM-103-L-SV      TopLayer    SMTC-SSM-103-X-SV             1580.000      1095.020      180      "Tiger Claw(TM) Surface Mount Socket, Vertical, -55 to 125 degC, 2.54 mm Pitch, 3-Pin, Female, RoHS"        
+U1         MIC5219-2.5YM5-TR TopLayer    FP-SOT23-5LD-PL-1-MFG         1753.000      696.000       0        "MIC5219-2.5YM5-TR LDO Regulator Pos 2.5V 0.5A 5-Pin SOT-23 T/R"                                            
+S1         ""                TopLayer    FP-B3F-6022-MFG               2099.000      546.063       0        "SWITCH TACTILE SPST-NO 0.05A 24V"                                                                          
+R6         330               TopLayer    RESC0603X26X15ML03T05         1119.000      784.000       0        ""                                                                                                          
+R5         1K                TopLayer    FP-ERJ1GN-IPC_C               568.988       833.000       0        "RES SMD 1K OHM 1% 1/20W 0201"                                                                              
+D4         Red               TopLayer    FP-HSMS-C150-MFG              396.000       832.000       0        "LED RED DIFFUSED CHIP SMD"                                                                                 
+D3         Green             TopLayer    AVAG-HSMX-C170_V              2127.000      824.000       0        "Chip LED, Green, 2.2 V, -40 to 85 degC, 2-Pin SMD, Pb-Free, Tape and Reel"                                 
+C2         0.1uF             TopLayer    FP-C0402-BB-MFG               1742.252      827.000       0        "CAP CER 0.1UF 10V X5R 0402"                                                                                
+C1         10uF              TopLayer    FP-GRM188-0_1-e0_2_0_55-IPC_A 1746.000      524.000       180      "Chip Multilayer Ceramic Capacitors for General Purpose, 0603, 10uF, X5R, 15%, 20%, 6.3V"                   
+U2         FT231XS-R         TopLayer    FP-SSOP-20-MFG                1114.000      557.000       270      "IC USB SERIAL FULL UART 20SSOP"                                                                            
+R4         1K                TopLayer    FP-ERJ1GN-IPC_C               1726.000      391.000       180      "RES SMD 1K OHM 1% 1/20W 0201"                                                                              
+R3         1K                TopLayer    FP-ERJ1GN-IPC_C               1726.000      324.000       180      "RES SMD 1K OHM 1% 1/20W 0201"                                                                              
+R2         33                TopLayer    RESC0603X26X15ML03T05         383.000       511.000       0        ""                                                                                                          
+R1         33                TopLayer    RESC0603X26X15ML03T05         383.236       589.000       0        ""                                                                                                          
+JP1        USB-A-H           TopLayer    TE-292303-1_V                 136.693       549.000       270      "1 Port Right Angle Through Hole Mount Female Type A USB Connector, 4 Position, -55 to 85 degC, RoHS, Tube" 
+D2         Yellow            TopLayer    AVAG-HSMX-C190_V              2095.472      300.000       0        "LED Uni-Color Yellow, 65 mW, 20 mA, -40 to 85 degC, 2-Pin SMD, RoHS, Tape and Reel"                        
+D1         Green             TopLayer    AVAG-HSMX-C170_V              2096.661      361.000       0        "Chip LED, Green, 2.2 V, -40 to 85 degC, 2-Pin SMD, Pb-Free, Tape and Reel"                                 
+C6         0.1uF             TopLayer    FP-C0402-BB-MFG               1101.000      314.000       180      "CAP CER 0.1UF 10V X5R 0402"                                                                                
+C5         47pF              TopLayer    FP-C0805C-DN-MFG              386.527       700.000       0        "CAP CER 47PF 50V C0G/NP0 0805"                                                                             
+C4         47pF              TopLayer    FP-C0805C-DN-MFG              388.000       408.000       0        "CAP CER 47PF 50V C0G/NP0 0805"                                                                             
+C3         0.1uF             TopLayer    FP-C0402-BB-MFG               947.000       313.000       0        "CAP CER 0.1UF 10V X5R 0402"                                                                                
