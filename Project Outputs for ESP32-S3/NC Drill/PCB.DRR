@@ -1,0 +1,38 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB.PcbDoc   3/1/2026  11:53:12 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB-RoundHoles.TXT
+ASCII SlotHoles File : PCB-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.203mm (8mil)                                            Round             36        PTH        202.36mm (7.97inch)
+T2      0.511mm (20mil)                                           Slot              1         PTH        0.09mm (0.00inch)
+T3      0.53mm (21mil)                                            Slot              3         PTH        25.56mm (1.01inch)
+T4      0.711mm (28mil)                                           Round             1         PTH        0.00mm (0.00inch)
+T5      0.991mm (39mil)                                           Round             4         PTH        42.96mm (1.69inch)
+T6      1.219mm (48mil)                                           Round             27        PTH        98.73mm (3.89inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              72
+Layer Pair : Top Layer to Layer 3
+ASCII RoundHoles File : PCB-RoundHoles.TX1
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.203mm (8mil)                                            Round             15        PTH        115.15mm (4.53inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              15
+Layer Pair : Layer 4 to Bottom Layer
+ASCII RoundHoles File : PCB-RoundHoles.TX2
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.203mm (8mil)                                            Round             4         PTH        14.46mm (0.57inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              4
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              91
+
+Total Processing Time (hh:mm:ss) : 00:00:00
